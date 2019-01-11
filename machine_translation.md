@@ -1,6 +1,6 @@
 # Machine translation
 
-Machine translation is the task of translating a sentence in a source language to a different target language. 
+Machine translation is the task of translating a text (particularly sentence or word) in a source language to a different target language. 
 
 Results with a * indicate that the mean test score over the the best window based on average dev-set BLEU score over 
 21 consecutive evaluations is reported as in [Chen et al. (2018)](https://arxiv.org/abs/1804.09849).
